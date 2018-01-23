@@ -1,2 +1,4 @@
 自建的GitHub（whpGit）在本地的仓库,
 写了搭建教程，存在“印象笔记”中
+
+测试撤销未git commit前的git add

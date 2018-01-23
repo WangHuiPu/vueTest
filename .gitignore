@@ -1,0 +1,11 @@
+# exclude
+.svn/
+target/
+*.iml
+.idea/
+.settings/
+.classpath*
+.project
+.externalToolBuilders/
+bin/
+___logs
